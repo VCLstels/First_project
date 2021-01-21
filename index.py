@@ -4,4 +4,4 @@ print("fefew")
 print('fefe')
 print('fefefefe')
 print('fefghtjydngfbdvsCASwdqr')
-fefefe
+print(2+5)
